@@ -27,9 +27,9 @@ print('\033[34;1m' + """
 
 """ + '\033[0m')
                                                                             
-API_KEY = 'd3c883a0-4507-4713-a6d2-1e30e6ac695d'
+API_KEY = 'YOUR_API_KEY'
 INTEZER_API_URL = 'https://analyze.intezer.com/api/v2-0'
-MAX_WORKERS = 5  # Number of concurrent threads
+MAX_WORKERS = 5 
 
 def color_malicious(text):
     if "malicious" in text.lower():
