@@ -12,15 +12,14 @@ I created a Python tool that uses the Intezer Analyze API to scan files and dire
 # Installation
 Step 1:
 ```
-git clone https://github.com/Hamoud-20/Sockit.git
+git clone https://github.com/Hamoud-20/IntezDetect.git
 ```
 Step 2:
 ```
 pip install -r requirements.txt
 ```
 Step 3:
-Set up your VirusTotal API and urlscan.io API key:
+Set up your Intezer Analyze API key:
 ```
 API_KEY = "YOUR_API_KEY"
-URLSCAN_API_KEY = "YOUR_API_KEY"
 ```
