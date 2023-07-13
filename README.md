@@ -52,3 +52,8 @@ options:
 
 <img width="749" alt="image" src="https://github.com/Hamoud-20/IntezDetect/assets/137123444/992356a3-f991-4866-8d78-665d87c9e02c">
 
+# Summary
+
+This tool will help you analyze all files with all kinds of extensions and also tell you a detailed analysis.
+
+Happy threat hunting!
